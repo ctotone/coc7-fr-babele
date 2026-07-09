@@ -29,5 +29,7 @@
       "name": "Français",
       "path": "lang/fr.json"
     }
-  ]
+  ],
+   "manifest": "https://github.com/mon-compte/mon-repository/raw/main/module.json",
+  "download": "https://github.com/mon-compte/mon-repository/archive/refs/heads/main.zip"
 }

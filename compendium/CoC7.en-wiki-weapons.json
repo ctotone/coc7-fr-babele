@@ -1,0 +1,145 @@
+{
+	"label": "Armes | fr",
+	"folders": {
+		"Hand-to-Hand Weapons": "Armes de corps à corps",
+		"Handguns": "Armes de poing",
+		"Machine Guns": "Mitrailleuses",
+		"Submachine Guns": "Pistolets-mitrailleurs",
+		"Rifles": "Fusils",
+		"Shotguns": "Fusils de chasse"
+	},
+	"entries": {
+		"Vickers .303": {
+			"name": "Mitrailleuse Vickers .303"
+		},
+		".25 Derringer (1B)": {
+			"name": "Derringer .25 (1 canon)"
+		},
+		"Knife, Medium": {
+			"name": "Couteau moyen"
+		},
+		"Shuriken": {
+			"name": "Shuriken"
+		},
+		".30-06 Bolt-Action Rifle": {
+			"name": "Fusil à verrou .30-06"
+		},
+		"12-gauge Shotgun (semi-auto)": {
+			"name": "Fusil de chasse calibre 12 (semi-auto)"
+		},
+		".45 Martini-Henry Rifle": {
+			"name": "Fusil Martini-Henry .45"
+		},
+		".45 Automatic": {
+			"name": "Pistolet automatique .45"
+		},
+		"Mark I Lewis Gun": {
+			"name": "Mitrailleuse Lewis Mark I"
+		},
+		"Browning Auto Rifle M1918": {
+			"name": "Fusil automatique Browning M1918"
+		},
+		"12-gauge Shotgun (2B)": {
+			"name": "Fusil de chasse calibre 12 (2 canons)"
+		},
+		"Bow": {
+			"name": "Arc"
+		},
+		"Bullwhip": {
+			"name": "Fouet"
+		},
+		"Thompson": {
+			"name": "Thompson"
+		},
+		".45 Revolver": {
+			"name": "Revolver .45"
+		},
+		"Hatchet/Sickle": {
+			"name": "Hachette/faucille"
+		},
+		"Col. Moran's Air Rifle": {
+			"name": "Fusil à air comprimé du colonel Moran"
+		},
+		"Bren Gun": {
+			"name": "Fusil-mitrailleur Bren"
+		},
+		"Nunchaku": {
+			"name": "Nunchaku"
+		},
+		"Rock, Thrown": {
+			"name": "Pierre lancée"
+		},
+		"Model P08 Luger": {
+			"name": "Luger modèle P08"
+		},
+		"Garrote": {
+			"name": "Garrot"
+		},
+		".22 Short Automatic": {
+			"name": "Pistolet automatique .22 court"
+		},
+		"16-gauge Shotgun (2B)": {
+			"name": "Fusil de chasse calibre 16 (2 canons)"
+		},
+		"Elephant Gun (2B)": {
+			"name": "Fusil à éléphant (2 canons)"
+		},
+		".32 or 7.65mm Automatic": {
+			"name": "Pistolet automatique .32 ou 7,65 mm"
+		},
+		"20-gauge Shotgun (2B)": {
+			"name": "Fusil de chasse calibre 20 (2 canons)"
+		},
+		"Club, Small": {
+			"name": "Petit gourdin"
+		},
+		".303 Lee-Enfield": {
+			"name": "Lee-Enfield .303"
+		},
+		"Bergmann MP181/MP2811": {
+			"name": "Bergmann MP181/MP2811"
+		},
+		".32 or 7.65mm Revolver": {
+			"name": "Revolver .32 ou 7,65 mm"
+		},
+		"Burning Torch": {
+			"name": "Torche enflammée"
+		},
+		"Crossbow": {
+			"name": "Arbalète"
+		},
+		"Spear, Thrown": {
+			"name": "Lance lancée"
+		},
+		"Blackjack": {
+			"name": "Matraque souple"
+		},
+		"12-gauge Shotgun (2B sawed off)": {
+			"name": "Fusil de chasse calibre 12 (2 canons sciés)"
+		},
+		".30 Lever-Action Carbine": {
+			"name": "Carabine à levier .30"
+		},
+		"Knife, Large": {
+			"name": "Grand couteau"
+		},
+		".22 Bolt-Action Rifle": {
+			"name": "Fusil à verrou .22"
+		},
+		"Knife, Small": {
+			"name": "Petit couteau"
+		},
+		"Club, Large": {
+			"name": "Grand gourdin"
+		},
+		"Brass Knuckles": {
+			"name": "Poing américain"
+		},
+		"Spear": {
+			"name": "Lance"
+		},
+		".30 Browning M1917A1": {
+			"name": "Mitrailleuse Browning .30 M1917A1"
+		}
+	}
+}
