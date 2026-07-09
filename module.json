@@ -30,6 +30,6 @@
       "path": "lang/fr.json"
     }
   ],
-   "manifest": "https://github.com/mon-compte/mon-repository/raw/main/module.json",
-  "download": "https://github.com/mon-compte/mon-repository/archive/refs/heads/main.zip"
+   "manifest": "https://raw.githubusercontent.com/ctotone/coc7-fr-babele/refs/heads/main/module.json",
+  "download": "https://github.com/ctotone/coc7-fr-babele/archive/refs/tags/coc7-fr-babele.zip"
 }
