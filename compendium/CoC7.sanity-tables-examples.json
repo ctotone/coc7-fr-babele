@@ -1,0 +1,108 @@
+{
+	"label": "Table de santé mentale",
+	"entries": {
+		"Table IX: Sample Phobias": {
+			"name": "Table IX : Exemples de phobies",
+			"description": "Voir le Manuel du Gardien p. 160 pour plus de détails",
+			"results": {
+				"1-1": {
+					"name": "Acrophobie"
+				},
+				"2-2": {
+					"name": "Arachnophobie"
+				},
+				"3-3": {
+					"name": "Bibliophobie"
+				},
+				"4-4": {
+					"name": "Eisoptrophobie"
+				},
+				"5-5": {
+					"name": "Hématophobie"
+				},
+				"6-6": {
+					"name": "Nécrophobie"
+				},
+				"7-7": {
+					"name": "Odontophobie"
+				},
+				"8-8": {
+					"name": "Pyrophobie"
+				},
+				"9-9": {
+					"name": "Téléphonophobie"
+				},
+				"10-10": {
+					"name": "Xénophobie"
+				}
+			}
+		},
+		"Table VII: Bouts of Madness - Real Time": {
+			"name": "Table VII : Crises de folie - Temps réel",
+			"description": "Voir le Manuel du Gardien V7 p. 157 pour plus de détails",
+			"results": {
+				"1-10": {
+					"name": "Table des crises de folie (temps réel)"
+				},
+				"11-11": {
+					"name": "Table IX : Exemples de phobies"
+				},
+				"12-12": {
+					"name": "Table X : Exemples de manies"
+				}
+			}
+		},
+		"Table VIII: Bouts of Madness - Summary": {
+			"name": "Table VIII : Crises de folie - Résumé",
+			"description": "Voir le Manuel du Gardien V7 p. 159 pour plus de détails",
+			"results": {
+				"1-8": {
+					"name": "Crise de folie",
+					"description": "Voir la table des crises de folie p. 159 [[/r 1D10]] heures"
+				},
+				"9-9": {
+					"name": "Table IX : Exemples de phobies"
+				},
+				"10-10": {
+					"name": "Table X : Exemples de manies"
+				}
+			}
+		},
+		"Table X: Sample Manias": {
+			"name": "Table X : Exemples de manies",
+			"description": "Voir le Manuel du Gardien p. 161 pour plus de détails",
+			"results": {
+				"1-1": {
+					"name": "Agathomanie"
+				},
+				"2-2": {
+					"name": "Algomanie"
+				},
+				"3-3": {
+					"name": "Aménomanie"
+				},
+				"4-4": {
+					"name": "Bibliokleptomanie"
+				},
+				"5-5": {
+					"name": "Dikémanie"
+				},
+				"6-6": {
+					"name": "Géliomanie"
+				},
+				"7-7": {
+					"name": "Klazomanie"
+				},
+				"8-8": {
+					"name": "Kleptomanie"
+				},
+				"9-9": {
+					"name": "Nosomanie"
+				},
+				"10-10": {
+					"name": "Pseudomanie"
+				}
+			}
+		}
+	}
+}

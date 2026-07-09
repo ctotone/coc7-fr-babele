@@ -1,0 +1,417 @@
+{
+	"label": "Compétences",
+	"entries": {
+		"Mechanical Repair": {
+			"name": "Réparation mécanique",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Science (Zoology)": {
+			"name": "Science (zoologie)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Navigate": {
+			"name": "Orientation",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Swim": {
+			"name": "Natation",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Firearms (Heavy Weapons)": {
+			"name": "Armes à feu (armes lourdes)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Firearms (Flamethrower)": {
+			"name": "Armes à feu (lance-flammes)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Diving": {
+			"name": "Plongée",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Fighting (Any)": {
+			"name": "Combat (au choix)",
+			"description": "<p>À utiliser dans les professions / archétypes pour inviter à choisir une compétence de Combat</p>"
+		},
+		"Law": {
+			"name": "Droit",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Occult": {
+			"name": "Occultisme",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Language (Swahili)": {
+			"name": "Langue (swahili)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Science (Chemistry)": {
+			"name": "Science (chimie)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Language (German)": {
+			"name": "Langue (allemand)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Science (Engineering)": {
+			"name": "Science (ingénierie)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Track": {
+			"name": "Pistage",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Library Use": {
+			"name": "Bibliothèque",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Language (Czech)": {
+			"name": "Langue (tchèque)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Stealth": {
+			"name": "Discrétion",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Science (Physics)": {
+			"name": "Science (physique)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Rope Use": {
+			"name": "Utilisation des cordes",
+			"description": "<p>Voir le livre de règles Down Darker Trails</p>"
+		},
+		"Fighting (Chainsaw)": {
+			"name": "Combat (tronçonneuse)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Archaeology": {
+			"name": "Archéologie",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Art/Craft (Any)": {
+			"name": "Art/Artisanat (au choix)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Trap": {
+			"name": "Pièges",
+			"description": "<p>Voir le livre de règles Down Darker Trails</p>"
+		},
+		"Civics": {
+			"name": "Instruction civique",
+			"description": "<p>Voir Cthulhu Invictus</p>"
+		},
+		"Science (Biology)": {
+			"name": "Science (biologie)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Fighting (Spear)": {
+			"name": "Combat (lance)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Charm": {
+			"name": "Charme",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Sleight of Hand": {
+			"name": "Prestidigitation",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Firearms (Handgun)": {
+			"name": "Armes à feu (arme de poing)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Science (Any)": {
+			"name": "Science (au choix)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Psychology": {
+			"name": "Psychologie",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Locksmith": {
+			"name": "Serrurerie",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Listen": {
+			"name": "Écouter",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Electrical Repair": {
+			"name": "Réparation électrique",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Science (Forensics)": {
+			"name": "Science (médecine légale)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Fighting (Flail)": {
+			"name": "Combat (fléau)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Drive Auto": {
+			"name": "Conduite automobile",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Fighting (Whip)": {
+			"name": "Combat (fouet)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Language (Russian)": {
+			"name": "Langue (russe)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Language (Dutch)": {
+			"name": "Langue (néerlandais)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Firearms (Machine Gun)": {
+			"name": "Armes à feu (mitrailleuse)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Science (Geology)": {
+			"name": "Science (géologie)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Read Lips": {
+			"name": "Lecture sur les lèvres",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Gambling": {
+			"name": "Jeu",
+			"description": "<p>Voir le livre de règles Down Darker Trails</p>"
+		},
+		"Science (Botany)": {
+			"name": "Science (botanique)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Drive Carriage": {
+			"name": "Conduite de voiture hippomobile",
+			"description": "<p>Voir Cthulhu by Gaslight</p>"
+		},
+		"Fighting (Axe)": {
+			"name": "Combat (hache)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Fighting (Garrote)": {
+			"name": "Combat (garrot)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Language (English)": {
+			"name": "Langue (anglais)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Science (Mathematics)": {
+			"name": "Science (mathématiques)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Science (Cryptography)": {
+			"name": "Science (cryptographie)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Accounting": {
+			"name": "Comptabilité",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"History": {
+			"name": "Histoire",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Science (Pharmacy)": {
+			"name": "Science (pharmacie)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Computer Use": {
+			"name": "Informatique",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Firearms (Bow)": {
+			"name": "Armes à feu (arc)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Cthulhu Mythos": {
+			"name": "Mythe de Cthulhu",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Art/Craft (Photography)": {
+			"name": "Art/Artisanat (photographie)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Survival (Any)": {
+			"name": "Survie (au choix)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Language (Polish)": {
+			"name": "Langue (polonais)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Medicine": {
+			"name": "Médecine",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Firearms (Any)": {
+			"name": "Armes à feu (au choix)",
+			"description": "<p>À utiliser dans les professions / archétypes pour inviter à choisir une compétence d’Armes à feu</p>"
+		},
+		"Language (Any)": {
+			"name": "Langue (au choix)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Demolitions": {
+			"name": "Démolition",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Jump": {
+			"name": "Saut",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Operate Heavy Machinery": {
+			"name": "Conduite d’engins lourds",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Animal Handling": {
+			"name": "Dressage",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Language (Yoruba)": {
+			"name": "Langue (yoruba)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Firearms (Submachine Gun)": {
+			"name": "Armes à feu (pistolet-mitrailleur)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Disguise": {
+			"name": "Déguisement",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Intimidate": {
+			"name": "Intimidation",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Fighting (Sword)": {
+			"name": "Combat (épée)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Science (Astronomy)": {
+			"name": "Science (astronomie)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Natural World": {
+			"name": "Sciences naturelles",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Fast Talk": {
+			"name": "Baratin",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Firearms (Rifle/Shotgun)": {
+			"name": "Armes à feu (fusil/carabine)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Art/Craft (Acting)": {
+			"name": "Art/Artisanat (comédie)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Art/Craft (Fine Art)": {
+			"name": "Art/Artisanat (beaux-arts)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Hypnosis": {
+			"name": "Hypnose",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Spot Hidden": {
+			"name": "Trouver objet caché",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"First Aid": {
+			"name": "Premiers soins",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Ride": {
+			"name": "Équitation",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Electronics": {
+			"name": "Électronique",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Climb": {
+			"name": "Grimper",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Anthropology": {
+			"name": "Anthropologie",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Firearms (Artillery)": {
+			"name": "Armes à feu (artillerie)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Drive Horse / Oxen": {
+			"name": "Conduite de chevaux / bœufs",
+			"description": "<p>Voir Cthulhu Invictus</p>"
+		},
+		"Lore (Any)": {
+			"name": "Connaissance (au choix)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Psychoanalysis": {
+			"name": "Psychanalyse",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Language (Own)": {
+			"name": "Langue maternelle",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Throw": {
+			"name": "Lancer",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Drive Wagon / Coach": {
+			"name": "Conduite de chariot / diligence",
+			"description": "<p>Voir le livre de règles Down Darker Trails</p>"
+		},
+		"Empire": {
+			"name": "Empire",
+			"description": "<p>Voir Cthulhu Invictus</p>"
+		},
+		"Persuade": {
+			"name": "Persuasion",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Pilot (Any)": {
+			"name": "Pilotage (au choix)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Fighting (Brawl)": {
+			"name": "Combat (bagarre)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Credit Rating": {
+			"name": "Crédit",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Science (Meteorology)": {
+			"name": "Science (météorologie)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Dodge": {
+			"name": "Esquive",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Appraise": {
+			"name": "Estimation",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Art/Craft (Forgery)": {
+			"name": "Art/Artisanat (contrefaçon)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		},
+		"Language (Zulu)": {
+			"name": "Langue (zoulou)",
+			"description": "<p>Voir le livre de base de L’Appel de Cthulhu – 7e édition</p>"
+		}
+	}
+}
