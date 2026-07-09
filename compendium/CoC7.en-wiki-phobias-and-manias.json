@@ -1,0 +1,89 @@
+{
+	"label": "Phobies et manies",
+	"folders": {
+		"Phobias": "Phobies",
+		"Manias": "Manies"
+	},
+	"entries": {
+		"Xenophobia": {
+			"name": "Xénophobie",
+			"description": "<p>Peur des étrangers ou des inconnus</p>"
+		},
+		"Bibliophobia": {
+			"name": "Bibliophobie",
+			"description": "<p>Peur des livres</p>"
+		},
+		"Pyrophobia": {
+			"name": "Pyrophobie",
+			"description": "<p>Peur du feu</p>"
+		},
+		"Eisoptrophobia": {
+			"name": "Eisoptrophobie",
+			"description": "<p>Peur des miroirs</p>"
+		},
+		"Algomania": {
+			"name": "Algomanie",
+			"description": "<p>Obsession de la douleur</p>"
+		},
+		"Necrophobia": {
+			"name": "Nécrophobie",
+			"description": "<p>Peur des choses mortes</p>"
+		},
+		"Klazomania": {
+			"name": "Klazomanie",
+			"description": "<p>Compulsion irrationnelle à crier</p>"
+		},
+		"Agathomania": {
+			"name": "Agathomanie",
+			"description": "<p>Gentillesse pathologique</p>"
+		},
+		"Amenomania": {
+			"name": "Aménomanie",
+			"description": "<p>Gaieté irrationnelle</p>"
+		},
+		"Hemaphobia": {
+			"name": "Hématophobie",
+			"description": "<p>Peur du sang</p>"
+		},
+		"Bibliokleptomania": {
+			"name": "Bibliokleptomanie",
+			"description": "<p>Compulsion à voler des livres</p>"
+		},
+		"Pseudomania": {
+			"name": "Pseudomanie",
+			"description": "<p>Compulsion irrationnelle à mentir</p>"
+		},
+		"Acrophobia": {
+			"name": "Acrophobie",
+			"description": "<p>Peur des hauteurs</p>"
+		},
+		"Arachnophobia": {
+			"name": "Arachnophobie",
+			"description": "<p>Peur des araignées</p>"
+		},
+		"Dikemania": {
+			"name": "Dikémanie",
+			"description": "<p>Obsession de voir la justice rendue</p>"
+		},
+		"Geliomania": {
+			"name": "Géliomanie",
+			"description": "<p>Compulsion incontrôlable à rire</p>"
+		},
+		"Nosomania": {
+			"name": "Nosomanie",
+			"description": "<p>Délire consistant à croire souffrir d’une maladie imaginaire</p>"
+		},
+		"Kleptomania": {
+			"name": "Kleptomanie",
+			"description": "<p>Compulsion irrationnelle à voler</p>"
+		},
+		"Telephonophobia": {
+			"name": "Téléphonophobie",
+			"description": "<p>Peur des téléphones</p>"
+		},
+		"Odontophobia": {
+			"name": "Odontophobie",
+			"description": "<p>Peur des dents</p>"
+		}
+	}
+}

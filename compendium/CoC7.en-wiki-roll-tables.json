@@ -1,0 +1,50 @@
+{
+	"label": "Tables des folies",
+	"entries": {
+		"Bouts of Madness Table (Realtime)": {
+			"name": "Table des crises de folie (temps réel)",
+			"results": {
+				"1-1": {
+					"name": "Amnésie",
+					"description": "L’investigateur n’a aucun souvenir des événements survenus depuis qu’il a quitté pour la dernière fois un lieu sûr. Il a l’impression qu’un instant il prenait son petit-déjeuner et que, l’instant suivant, il se retrouve face à un monstre. Cela dure [[/r 1D10]] rounds."
+				},
+				"2-2": {
+					"name": "Handicap psychosomatique",
+					"description": "L’investigateur souffre d’une cécité psychosomatique, d’une surdité psychosomatique ou de la perte de l’usage d’un membre pendant [[/r 1D10]] rounds."
+				},
+				"3-3": {
+					"name": "Violence",
+					"description": "Un voile rouge de rage s’abat sur l’investigateur affecté, qui explose dans une crise de violence incontrôlée et de destruction dirigée contre son environnement, ses alliés comme ses ennemis, pendant [[/r 1D10]] rounds."
+				},
+				"4-4": {
+					"name": "Paranoïa",
+					"description": "L’investigateur souffre d’une paranoïa sévère pendant [[/r 1D10]] rounds. Tout le monde lui veut du mal ! Personne n’est digne de confiance ! Il est espionné ; quelqu’un l’a trahi ; ce qu’il voit est une illusion."
+				},
+				"5-5": {
+					"name": "Personne significative",
+					"description": "Consultez l’entrée Personnes significatives de l’historique de l’investigateur. L’investigateur prend une autre personne présente dans la scène pour sa personne significative. Tenez compte de la nature de leur relation ; l’investigateur agit en conséquence. Cela dure [[/r 1D10]] rounds."
+				},
+				"6-6": {
+					"name": "Évanouissement",
+					"description": "L’investigateur s’évanouit et reprend connaissance après [[/r 1D10]] rounds."
+				},
+				"7-7": {
+					"name": "Fuite paniquée",
+					"description": "L’investigateur est poussé à s’éloigner le plus possible par tous les moyens disponibles, même si cela signifie prendre le seul véhicule et abandonner tout le monde derrière lui. Il fuit pendant [[/r 1D10]] rounds."
+				},
+				"8-8": {
+					"name": "Crise physique ou débordement émotionnel",
+					"description": "L’investigateur est incapacité par le rire, les pleurs, les cris, etc., pendant [[/r 1D10]] rounds."
+				},
+				"9-9": {
+					"name": "Phobie",
+					"description": "L’investigateur acquiert une nouvelle phobie, comme la claustrophobie (peur des espaces confinés), la démonophobie (peur des esprits ou des démons) ou la katsaridaphobie (peur des cafards). Même si la source de la phobie n’est pas présente, l’investigateur l’imagine présente pendant les [[/r 1D10]] prochains rounds, et toutes ses actions subissent un dé de pénalité tant que la crise se poursuit."
+				},
+				"10-10": {
+					"name": "Manie",
+					"description": "L’investigateur acquiert une nouvelle manie, comme l’ablutomanie (compulsion à se laver), la pseudomanie (compulsion irrationnelle à mentir) ou l’helminthomanie (goût excessif pour les vers). L’investigateur cherche à satisfaire cette nouvelle manie pendant les [[/r 1D10]] prochains rounds, et toutes ses actions subissent un dé de pénalité tant que la crise se poursuit."
+				}
+			}
+		}
+	}
+}
